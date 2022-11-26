@@ -1,4 +1,4 @@
-# Apple-M1-Audio-Fix
+# Apple M1 Audio Fix
 Script to temporarally address Apple Macbook Pro M1 audio problems such as pops, distortion, and crackling.
 
 ## Issue ##
