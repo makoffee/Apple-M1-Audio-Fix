@@ -8,6 +8,7 @@ Script to temporarally address Apple Macbook Pro M1 audio problems such as pops,
 - https://developer.apple.com/forums/thread/132423?page=11
 - https://www.reddit.com/r/macbookpro/comments/qmpg3k/2021_macbook_pro_speakers_crackling_and_popping/
 
+
 * Note: Many of the offered solutions are uneducated guess, particully the suggestions to manimulate MIDI audio clock rates have no effect on this issue. *
 
 ## Temporary fix ##
