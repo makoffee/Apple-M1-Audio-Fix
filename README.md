@@ -2,7 +2,7 @@
 Script to temporarally address Apple Macbook Pro M1 audio problems such as pops, distortion, and crackling.
 
 ## Issue ##
-2021 Macbook Pro user have documented audio issues such as popping sounds, distorted crackling while durring audio playback.  Issue seems not to be related to any kind of problem with the speaker, but instead is related to heavy memory usage and poor handeling of audio buffer size during playback under heavy CPU and memory load.  This issue has been well documented on the following communities:
+2021 Macbook Pro users have documented audio issues such as popping sounds, distorted crackling while durring audio playback.  Issue seems not to be related to any kind of problem with the speaker, but instead is related to heavy memory usage and poor handeling of audio buffer size during playback under heavy CPU and memory load.  This issue has been well documented on the following communities:
 
 - https://discussions.apple.com/thread/253531295
 - https://developer.apple.com/forums/thread/132423?page=11
