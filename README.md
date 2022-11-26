@@ -12,7 +12,7 @@ Script to temporarally address Apple Macbook Pro M1 audio problems such as pops,
 * Note: Many of the offered solutions are uneducated guess, particully the suggestions to manimulate MIDI audio clock rates have no effect on this issue. *
 
 ## Temporary fix ##
-Removing curropted audio prefrences, and killing coreaudiod.  After getting tired of typing these commands, I've created a small script to run these two actions, as the issue will occur multipule times a day.  Restarting the system after running the script seems to keep the audio issues from coming back so quickly.
+Removing corrupted audio preferences, and killing coreaudiod. After getting tired of typing these commands, I've created a small script to run these two actions, as the issue will occur multiple times a day. Restarting the system after running the script seems to keep the audio issues from coming back so quickly.
 
 ## Usage ##
 - Download 'fixaudio.sh'
